@@ -1,4 +1,4 @@
-# Udemy project bootstrapped with:
+# Project bootstrapped with:
 
 ## ReduxSimpleStarter
 Tut using [Redux](https://www.udemy.com/react-redux/)
