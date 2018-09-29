@@ -1,0 +1,14 @@
+
+# dependencies
+/node_modules
+
+# api keys
+.env
+
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
